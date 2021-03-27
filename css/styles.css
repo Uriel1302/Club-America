@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #ffc107;
+  color:#DAA520;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #117964;
+  color:#DAA520;
   text-decoration: underline;
 }
 
@@ -2438,7 +2438,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #1abc9c;
+  background-color: #DAA520;
   border-color: #1abc9c;
 }
 .btn-primary:hover {
@@ -6073,7 +6073,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #ffc107 !important;
+  background-color: #DAA520 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10095,11 +10095,11 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: #DAA520c;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: #DAA520;
   }
 
   #mainNav.navbar-shrink {
@@ -10152,7 +10152,7 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgba(218, 165, 32, 0.7);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
@@ -10178,7 +10178,7 @@ h3 {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #1abc9c;
+  color: #DAA520;
   opacity: 1;
 }
 
@@ -10221,7 +10221,7 @@ h3 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #1abc9c;
+  color: #DAA520;
 }
 
 form .row:first-child .floating-label-form-group {

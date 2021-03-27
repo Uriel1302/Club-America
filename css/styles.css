@@ -479,6 +479,8 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  max-height: 100%;
+  
 }
 
 .img-thumbnail {
@@ -10124,7 +10126,7 @@ h3 {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 35rem;
+  width: 25rem;
 }
 
 @media (min-width: 992px) {

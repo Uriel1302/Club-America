@@ -6077,7 +6077,9 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #B8860B !important;
+  
+  background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/73/84/BnCi8q.jpg");
+  background-size: 100% 100%; 
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9775,7 +9777,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  
 }
 
 .text-primary {
@@ -10056,7 +10058,7 @@ h3 {
 }
 
 #mainNav {
-  padding-top: 1rem;
+  
   padding-bottom: 1rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
@@ -10126,7 +10128,7 @@ h3 {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 25rem;
+  width: 23rem;
 }
 
 @media (min-width: 992px) {

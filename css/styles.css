@@ -5403,6 +5403,7 @@ a.close.disabled {
 }
 .modal.show .modal-dialog {
   transform: none;
+  width: 50%;
 }
 .modal.modal-static .modal-dialog {
   transform: scale(1.02);
@@ -5500,7 +5501,7 @@ a.close.disabled {
 .modal-body {
   position: relative;
   flex: 1 1 auto;
-  padding: 4rem 1rem;
+  padding: 3rem 0rem;
 }
 
 .modal-footer {
@@ -5560,7 +5561,7 @@ a.close.disabled {
 }
 @media (min-width: 1200px) {
   .modal-xl {
-    max-width: 1140px;
+    max-width: 60%;
   }
 }
 .tooltip {
@@ -6611,6 +6612,7 @@ button.bg-dark:focus {
 }
 
 .justify-content-center {
+  
   justify-content: center !important;
 }
 
@@ -7614,7 +7616,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 2rem !important;
 }
 
 .ml-5,
